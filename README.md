@@ -11,13 +11,13 @@ handler = WebhookHandler('ISI CHHANEL SCREET')
 1. sudo apt-get install heroku
 2. sudo pip install line-bot-sdk
 3. sudo pip install flask
-4. curl https://cli-assets.heroku.com/install-ubuntu.sh | sh
-5. git clone https://github.com/Aditmadzs/oalinebot
+4. بستن https://cli-assets.heroku.com/install-ubuntu.sh | ش
+5. git clone https://github.com/sallakhsystem/sallakh
 6. EDIT TOKEN + SECRET DULU
 7. Buka folder git kalian
 ```shell＝
-cd oalinebot
-```
+cd sallakh
+`` `
 8. Login Ke Heroku
 ```shell＝
 heroku login
