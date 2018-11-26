@@ -260,5 +260,5 @@ message = TemplateSendMessage(
 )
 line_bot_api.reply_message(event.reply_token, message)
 ```
-# Thanks to
-- Arsybai
+# Thanks to ABBAS SALLAKH $-K ™
+- [HERE](https://line.me/ti/p/fDkawyMoqD)
